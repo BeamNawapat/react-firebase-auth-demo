@@ -1,6 +1,7 @@
 {
-    "name": "react-firebase-auth-demo",
-    "version": "1.0.1",
+    "name": "@beamnawapat/react-firebase-auth-demo",
+    "version": "1.0.0",
+    "private": false,
     "homepage:": "https://github.com/BeamNawapat/ReactFirebaseAuth#readme",
     "repository": {
         "type": "git",
