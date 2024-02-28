@@ -1,0 +1,27 @@
+.center {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.space{
+    padding:6px;
+}
+
+.changesize{
+    width:25px;
+    height:25px;
+}
+
+.TextArea{
+    margin-top:10px;
+    
+}
+
+.fb{
+    width:100px;
+    height:100px;
+}
