@@ -1,6 +1,6 @@
 {
     "name": "@beamnawapat/react-firebase-auth-demo",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "private": false,
     "homepage:": "https://github.com/BeamNawapat/ReactFirebaseAuth#readme",
     "repository": {
@@ -13,6 +13,7 @@
         "@testing-library/jest-dom": "^5.14.1",
         "@testing-library/react": "^11.2.7",
         "@testing-library/user-event": "^12.8.3",
+        "ethers": "^6.11.1",
         "firebase": "^8.9.1",
         "firebaseui": "^5.0.0",
         "openssl": "^1.1.0",

@@ -1,19 +1,18 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { useState, useEffect } from "react";
+import logo from "./logo.svg";
+import { ethers } from "ethers";
 import Login from "./components/Login";
+import { useState, useEffect } from "react";
 import HomePage from "./components/HomePage";
 import firebase from "./firebase_service/firebase";
-
 
 import "./css/command.css";
 
 function App() {
     const [user, setUser] = useState(null);
 
-
     useEffect(() => {
-        firebase.auth().onAuthStateChanged((user) => {  
+        firebase.auth().onAuthStateChanged((user) => {
             setUser(user);
         });
     }, []);
@@ -22,7 +21,6 @@ function App() {
         console.log("TEST");
         return <Login />;
     }
-
 
     return (
         <div className="App">
