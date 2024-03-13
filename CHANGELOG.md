@@ -1,5 +1,11 @@
 # @beamnawapat/react-firebase-auth-demo
 
+## 1.0.8
+
+### Patch Changes
+
+- Updated github name project
+
 ## 1.0.7
 
 ### Patch Changes

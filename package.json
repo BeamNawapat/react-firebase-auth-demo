@@ -1,11 +1,11 @@
 {
     "name": "@beamnawapat/react-firebase-auth-demo",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "private": false,
-    "homepage:": "https://github.com/BeamNawapat/ReactFirebaseAuth",
+    "homepage:": "https://github.com/BeamNawapat/react-firebase-auth-demo",
     "repository": {
         "type": "git",
-        "url": "https://github.com/beamnawapat/ReactFirebaseAuth"
+        "url": "https://github.com/beamnawapat/react-firebase-auth-demo"
     },
     "dependencies": {
         "@changesets/changelog-github": "^0.5.0",
