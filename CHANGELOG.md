@@ -1,5 +1,11 @@
 # @beamnawapat/react-firebase-auth-demo
 
+## 1.0.7
+
+### Patch Changes
+
+- Upgrade package.json
+
 ## 1.0.6
 
 ### Patch Changes
